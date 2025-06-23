@@ -74,7 +74,3 @@ A Spring Boot RESTful API for managing courses and students, supporting many-to-
    ./mvnw spring-boot:run
    ```
 4. Test endpoints with Postman, curl, or your favorite tool.
-
-## License
-
-MIT
